@@ -2,8 +2,7 @@
   Вывод:
   ![Вывод программы](https://github.com/LeonDeTur/Unit_tests_final/blob/main/Вывод%20программы.png)
 - Код тестов представлен модулем tests.py
-- Отчет pylint/Checkstyle находится в файле pylint_report.txt
-  Оценка pylint 6.67/10
+- Отчет pylint/Checkstyle находится в файле pylint_report.txt (оценка pylint 6.67/10)
 - Отчет о покрытии тестами
   Тесты покрывают только класс модуля average_list, в силу того, что main тестировать нет смысла, по сути будет проверка одного и того же.
   Покрытие тестов 100%
